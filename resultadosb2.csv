@@ -1,0 +1,16 @@
+Mapa,Algoritmo,Supervivencia (%),Media Turnos,Desv Est Turnos,Min Turnos,Max Turnos
+Mapa 1 (Alta densidad),BFS,58.63,11.97,3.74,2,19
+Mapa 1 (Alta densidad),DFS,13.7,10.76,10.08,1,38
+Mapa 1 (Alta densidad),A*,53.27,10.74,4.15,2,19
+Mapa 1 (Alta densidad),Greedy,55.07,11.04,4.0,1,19
+Mapa 1 (Alta densidad),Genetico,18.03,14.16,8.82,1,41
+Mapa 2 (Laberinto),BFS,51.3,13.04,5.62,1,25
+Mapa 2 (Laberinto),DFS,17.53,12.3,8.92,1,39
+Mapa 2 (Laberinto),A*,55.63,14.21,5.4,1,29
+Mapa 2 (Laberinto),Greedy,56.27,14.39,5.17,1,25
+Mapa 2 (Laberinto),Genetico,21.97,16.88,10.86,1,41
+Mapa 3 (Abierto),BFS,53.27,13.55,4.86,1,23
+Mapa 3 (Abierto),DFS,7.8,14.69,9.82,1,38
+Mapa 3 (Abierto),A*,52.5,13.55,5.05,3,24
+Mapa 3 (Abierto),Greedy,56.67,14.16,4.65,1,24
+Mapa 3 (Abierto),Genetico,20.7,17.13,10.36,1,39
